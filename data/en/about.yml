@@ -1,0 +1,123 @@
+################################## About #####################################
+about:
+  enable : true
+  image : "/images/feature-bg.jpg"
+  title : "What is Prowess' Story?"
+  content : "It all started with a change of career many years ago. Games have marked our lives
+  one way or another, and we had ideas and stories to tell. After years of working on the side,
+  Prowess Games finally started in July 2020, based in Melbourne, Australia.
+  
+  We focus on simple, aesthetically pleasing and engaging mobile games. We want to
+  bring new ideas into the table, and give people more ways to express and challenge themselves."
+
+
+
+  button:
+    enable : false
+    label : ""
+    link : "#"
+
+  #funfacts:
+    # funfacts loop
+    #- icon : "ion-ios-flask-outline" #ionicon pack v2 : https://ionicons.com/v2/
+    #  name : "Completed Projects"
+    #  count : "349"
+      
+    # funfacts loop
+    #- icon : "ion-ios-flame-outline" #ionicon pack v2 : https://ionicons.com/v2/
+    #  name : "Lines Of Code"
+    #  count : "35000"
+      
+    # funfacts loop
+    #- icon : "ion-ios-pint-outline" #ionicon pack v2 : https://ionicons.com/v2/
+    #  name : "Satisfied Customer"
+    #  count : "70"
+      
+    # funfacts loop
+    #- icon : "ion-ios-wineglass-outline" #ionicon pack v2 : https://ionicons.com/v2/
+    #  name : "Awards Winner"
+    #  count : "10"
+      
+    # funfacts loop
+    #- icon : "ion-ios-chatboxes-outline" #ionicon pack v2 : https://ionicons.com/v2/
+    #  name : "Satisfied Customer"
+    #  count : "75"
+      
+    # funfacts loop
+    #- icon : "ion-ios-body-outline" #ionicon pack v2 : https://ionicons.com/v2/
+    #  name : "Awards Winner"
+    #  count : "20"
+      
+      
+      
+      
+################################ feature #####################################
+features:
+  enable : true
+  title : "INDIE GAME DEVELOPMENT"
+  feature_item:
+    # feature item loop
+    - icon : "ion-ios-color-filter-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Mobile Games"
+      content : "We focus on simple, fun mobile games. Our games are available on Google Play and App Store."
+      
+    # feature item loop
+    - icon : "ion-ios-game-controller-b-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Free to Play"
+      content : "We value all of our players and strive to make balanced games, fair for everybody."
+      
+    # feature item loop
+    - icon : "ion-ios-pulse-strong" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Idle & Arcades"
+      content : "Play when you can, and continue where you left on. 
+      There is nothing better than to come back to a game to find a reward waiting for you."
+      
+
+    
+
+#################################### testimonial & mission vision #######################################
+testimonial:
+  enable : false
+  # testimonial content comes from "data/*/homepage.yml" file
+
+mission_vision:
+  enable : false
+  tabs:
+    # tab item loop
+    - name : "Vision"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis ducimus facere repellat
+      harum, eius cupiditate, aliquam aut deserunt. Nemo illo ex impedit autem quod nobis architecto, velit
+      quasi, aut voluptas porro natus. Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus
+      voluptatum aspernatur ad quidem neque accusantium repudiandae cupiditate nobis corporis, cum facere
+      iusto, modi cumque consectetur saepe. Officia, molestiae tempore! Consequatur ipsa consequuntur saepe
+      suscipit vero laudantium, mollitia, quaerat soluta nihil non tempore, quos dignissimos quasi ab officiis
+      illum numquam quibusdam ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
+      temporibus eos sequi alias hic nemo."
+      
+    # tab item loop
+    - name : "Mission"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis ducimus facere repellat
+      harum, eius cupiditate, aliquam aut deserunt. Nemo illo ex impedit autem quod nobis architecto, velit
+      quasi, aut voluptas porro natus. Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus
+      voluptatum aspernatur ad quidem neque accusantium repudiandae cupiditate nobis corporis, cum facere
+      iusto, modi cumque consectetur saepe. Officia, molestiae tempore! Consequatur ipsa consequuntur saepe
+      suscipit vero laudantium, mollitia, quaerat soluta nihil non tempore, quos dignissimos quasi ab officiis
+      illum numquam quibusdam ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
+      temporibus eos sequi alias hic nemo."
+      
+    # tab item loop
+    - name : "Approach"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis ducimus facere repellat
+      harum, eius cupiditate, aliquam aut deserunt. Nemo illo ex impedit autem quod nobis architecto, velit
+      quasi, aut voluptas porro natus. Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus
+      voluptatum aspernatur ad quidem neque accusantium repudiandae cupiditate nobis corporis, cum facere
+      iusto, modi cumque consectetur saepe. Officia, molestiae tempore! Consequatur ipsa consequuntur saepe
+      suscipit vero laudantium, mollitia, quaerat soluta nihil non tempore, quos dignissimos quasi ab officiis
+      illum numquam quibusdam ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
+      temporibus eos sequi alias hic nemo."
+
+
+############################# call to action #################################
+cta:
+  enable : false
+  # call to action content comes from "data/*/homepage.yml"

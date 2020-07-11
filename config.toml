@@ -111,7 +111,7 @@ email = "prowessgames@gmail.com"
 location = "Melbourne, Australia"
 
 # contact form action
-contact_form_action = "#" # contact form works with : https://formspree.io
+contact_form_action = "https://formspree.io/xleporvz" # contact form works with : https://formspree.io
 
 # Google Analitycs
 google_analitycs_id = "" # Your ID# search

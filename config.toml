@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "http://www.prowessgames.net"
+baseURL = ""
 title = "Prowess Games | Australian Game Devs"
 theme = "airspace-hugo"
 # post pagination

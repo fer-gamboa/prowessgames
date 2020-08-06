@@ -1,7 +1,6 @@
 ---
-bg_image: images/feature-bg.jpg
-description: We are preparing to release our first game. Stay tuned! 
+title: "Our Games"
+description: "Challenge yourself with our mobile games"
 draft: false
-title: Games & Projects
+bg_image: "images/feature-bg.jpg"
 ---
-

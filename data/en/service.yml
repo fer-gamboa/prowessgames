@@ -1,0 +1,26 @@
+############################# Service ###############################
+service:
+  enable : true
+  title : "Game On Wherever You Go"
+  description : 
+  service_item:
+    # service item loop
+    - icon : ion-ios-color-filter-outline
+      name: "Mobile Games"
+      content: "We focus on simple, fun mobile games. Our games are available on Google Play and App Store."
+
+    # service item loop
+    - icon : ion-ios-game-controller-b-outline
+      name: "Free to Play"
+      content: "We value all of our players and strive to make balanced games, fair for everybody."
+
+    # service item loop
+    - icon : ion-ios-pulse-strong
+      name: "Idle & Arcades"
+      content: "Play when you can, and continue where you left on. There is nothing better than to come back to a game to find a reward waiting for you."
+
+
+# service item loop
+    - icon : ion-earth
+      name: "Our Goals"
+      content: "We focus on simple, aesthetically pleasing and engaging mobile games. We want to bring new ideas into the table, and give people more ways to express and challenge themselves."

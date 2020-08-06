@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Games &amp; Projects on Prowess Games | Australian Game Devs</title>
+    <title>Our Games on Prowess Games | Australian Game Devs</title>
     <link>/project/</link>
-    <description>Recent content in Games &amp; Projects on Prowess Games | Australian Game Devs</description>
+    <description>Recent content in Our Games on Prowess Games | Australian Game Devs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2020 Prowess Games - All Rights Reserved</copyright>
     
 	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Quirky Flight</title>
+      <link>/project/quirkyflight/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/quirkyflight/</guid>
+      <description>Get ready to fly alongside Quirky through increasingly difficult and longer levels in Normal Mode, and to challenge yourself to flight your way through neverending obstacles in Endless Mode.
+★ SIMPLE CONTROLS: Tap tap, tap your way.</description>
+    </item>
     
   </channel>
 </rss>

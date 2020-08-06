@@ -19,10 +19,6 @@
   </url>
   
   <url>
-    <loc>/project/</loc>
-  </url>
-  
-  <url>
     <loc>/author/john-doe/</loc>
   </url>
   
@@ -35,7 +31,15 @@
   </url>
   
   <url>
+    <loc>/project/</loc>
+  </url>
+  
+  <url>
     <loc>/</loc>
+  </url>
+  
+  <url>
+    <loc>/project/quirkyflight/</loc>
   </url>
   
   <url>

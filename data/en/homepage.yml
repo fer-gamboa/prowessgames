@@ -27,24 +27,30 @@ about:
   image : "images/feature-bg.jpg"
 
 
+
+
+
+
 ######################### Portfolio ###############################
 portfolio:
   enable : false
-  bg_image : "images/feature-bg.jpg"
-  title : "WE BELIEVE IN GREAT IDEAS"
+  bg_image : "images/company/mdevice4.png"
+  title : ""
   content : ""
   button:
-    enable : true
-    label : "View Works"
-    link : "games"
+    enable : false
+    label : "View Games"
+    link : "project"
 
 
 
 
 ############################# Service ############################
 service:
-  enable : false
+  enable : true
   # service content comes from "data/*/service.yml" file
+
+
 
 
 ############################ call to action ###########################

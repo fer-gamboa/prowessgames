@@ -41,7 +41,6 @@ No in-app purchases, and no pesky banners. You can watch short ads to refill you
 #
 
 
-
 ![Quirky](Shot1.png)
 
 ![Quirky](Control.png)

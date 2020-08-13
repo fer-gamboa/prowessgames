@@ -24,7 +24,7 @@ link = "plugins/magnific-popup/magnific-popup.css"
 [[params.plugins.css]]
 link = "plugins/slick/slick.css"
 [[params.plugins.css]]
-link = "static/custom.css"
+link = "style/custom.css"
 
 # JS Plugins
 [[params.plugins.js]]
@@ -39,7 +39,8 @@ link = "plugins/magnific-popup/jquery.magnific-popup.min.js"
 link = "plugins/shuffle/shuffle.min.js"
 [[params.plugins.js]]
 link = "plugins/google-map/gmap.js"
-
+[[params.plugins.js]]
+link = "style/custom.js"
 
 
 
@@ -154,3 +155,11 @@ weight = 1
 home = "Home"
 # copyright
 copyright = "Copyright &copy; 2020 Prowess Games - All Rights Reserved"
+
+
+
+
+
+################################ ALLOWS HTML IN MD ########################
+[markup.goldmark.renderer]
+unsafe= true

@@ -1,0 +1,41 @@
+.project-content img{
+   width: 100% !important;
+ }
+ 
+ 
+ 
+.project-content a>img{
+   max-width: 250px !important;
+}
+
+
+
+.project-details a {
+   color: #4f5adb !important;
+}
+
+.project-details a:hover {
+   color: #061191 !important;
+}
+
+
+
+
+
+/* VIDEO CONTAINERS */
+
+.video-container {
+position: relative;
+padding-bottom: 56.25%;
+padding-top: 30px; height: 0; overflow: hidden;
+}
+
+.video-container iframe,
+.video-container object,
+.video-container embed {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+}

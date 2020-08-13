@@ -16,6 +16,9 @@ information:
     info : "August 2020"
   - label : "Notes"
     info : "In Game Ads"
+  - label : Download
+    info : "<a href='https://play.google.com/store/apps/details?id=com.prowessgames.quirkyflight&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1' target='_blank'>Get it on Google Play</a>"
+  
 ---
 
 
@@ -36,21 +39,29 @@ How long can you endure in Endless Mode? With no finish line in sight, help Quir
 **★ PLAY FOR FREE:**
 No in-app purchases, and no pesky banners. You can watch short ads to refill your diamonds and play without waiting.
 
-#
-&nbsp;
-#
+<br />
 
 
-![Quirky](Shot1.png)
+<div align="center">
+<a href='https://play.google.com/store/apps/details?id=com.prowessgames.quirkyflight&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1' target="_blank"><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' style="max-width: 250px;"/></a>
+</div>
+
+
+<br />
+
+
+<div align="center" class="video-container">
+<iframe width="720" height="480" src="https://www.youtube.com/embed/KgQDS8h9kXM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+<br />
+
 
 ![Quirky](Control.png)
 
-#
-&nbsp;
-#
-&nbsp;
-#
 
+<br />
 
 
 
@@ -73,3 +84,10 @@ You are free to refuse our request for your personal information, with the under
 Your continued use of our game will be regarded as acceptance of our practices around privacy and personal information. If you have any questions about how we handle user data and personal information, feel free to contact us.
 
 This policy is effective as of 6 August 2020.
+
+
+
+<br /><br />
+
+
+_Google Play and the Google Play logo are trademarks of Google LLC._

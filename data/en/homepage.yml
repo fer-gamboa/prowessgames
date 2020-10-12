@@ -56,12 +56,12 @@ service:
 ############################ call to action ###########################
 cta:
   enable : false
-  bg_image : "images/call-to-action-bg.jpg"
-  title : ""
-  content : ""
+  bg_image : "images/quirky.jpg"
+  title : "Do you have any questions?"
+  content : "We are happy to talk with you about our games, our mission, and solve your enquiries."
   button:
     enable : true
-    label : "Tell Us Your Story"
+    label : "GET IN TOUCH"
     link : "contact"
 
 

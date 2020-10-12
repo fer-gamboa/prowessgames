@@ -57,20 +57,20 @@ sidebar = ["taxonomy_category"]
 
 
 # main menu
-#[[menu.main]]
-#name = "About"
-#URL = "about"
-#weight = 1
+[[menu.main]]
+name = "About"
+URL = "about"
+weight = 1
 
 [[menu.main]]
 name = "Games"
 URL = "project"
 weight = 2
 
-[[menu.main]]
-name = "News"
-URL = "news"
-weight = 4
+#[[menu.main]]
+#name = "News"
+#URL = "news"
+#weight = 4
 
 [[menu.main]]
 name = "Contact"
@@ -140,9 +140,9 @@ link = "contact"
 icon = "ion-social-twitter-outline" #ionicon pack v2 : https://ionicons.com/v2/
 link = "https://twitter.com/ProwessGames"
 
-[[params.social]]
-icon = "ion-social-facebook-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
+#[[params.social]]
+#icon = "ion-social-facebook-outline" #ionicon pack v2 : https://ionicons.com/v2/
+#link = "#"
 
 
 
